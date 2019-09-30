@@ -1,10 +1,10 @@
 import { connect } from 'react-redux'
 import Operations from '../components/content/operations'
 
-import {
-  onNextPage,
-  onPrevPage,
-} from '../redux/projects/actions'
+// import {
+//   onNextPage,
+//   onPrevPage,
+// } from '../redux/projects/actions'
 
 import { sagaActions } from '../redux/projects/constants'
 
